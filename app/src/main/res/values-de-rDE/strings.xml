@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Internationalisierungsübung</string>
+    <string name="pais">Deutschland</string>
+    <string name="bandeira">Flagge Deutschlands</string>
+    <string name="comida">Eisbein</string>
+    <string name="food">Eisbein</string>
+</resources>

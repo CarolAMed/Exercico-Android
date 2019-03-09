@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Εξάσκηση Διεθνοποίησης</string>
+    <string name="pais">Ελλάδα</string>
+    <string name="bandeira">Σημαία της Ελλάδας</string>
+    <string name="comida">Μουσάκα</string>
+    <string name="food">Μουσάκα</string>
+</resources>
